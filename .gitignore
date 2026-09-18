@@ -1,0 +1,7 @@
+obj_dir/
+obj_soc/
+*.vcd
+*.log
+*.swp
+synth.v
+top.json
